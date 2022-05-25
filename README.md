@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Prathap Sagar S</h1>
 <h3 align="center">I am inquisitive web developer. Looking for Job in Javascript web development. I want to join a organisation which allows my professional growth and contribute to the orgnaisation in a significant scale. I am well versed in react js, express js and node</h3>
 
-<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Code" width="300" height="400">
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Code" width="250" height="300">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathapsagar" alt="prathapsagar" /></a> </p>

@@ -7,7 +7,7 @@
 <img align="right" src="https://www.svgrepo.com/show/343851/custom-coding-programming-development.svg" alt="Code" width="120" height="250">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathapsagar" alt="prathapsagar" /></a> </p>
+<p align="left" width="400"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathapsagar" alt="prathapsagar" /></a> </p>
 
 - 🔭 I’m currently working on [React video streaming app](https://github.com/prathapsagar/react_video_streaming_app)
 

@@ -1,5 +1,5 @@
 
-<img src="https://c0.wallpaperflare.com/preview/91/704/936/abstract-background-canvas-code.jpg" alt="Code" width="500" height="600">
+<img src="https://c0.wallpaperflare.com/preview/91/704/936/abstract-background-canvas-code.jpg" alt="Code" width="1000" height="300">
 
 <h1 align="center">Hi 👋, I'm Prathap Sagar S</h1>
 <h3 align="center">I am inquisitive web developer. Looking for Job in Javascript web development. I want to join a organisation which allows my professional growth and contribute to the orgnaisation in a significant scale. I am well versed in react js, express js and node</h3>

@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prathapsagar](https://github.com/prathapsagar)
 
+-  📜Published Paper **https://www.irjet.net/archives/V7/i7/IRJET-V7I7103.pdf**
+
 - 💬 Ask me about **Python, React and Django**
 
 - 📫 How to reach me **prathapsagar0306@gmail.com**
